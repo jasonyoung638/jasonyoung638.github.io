@@ -1,7 +1,7 @@
 ﻿body {
   font-family: 'monospace', serif;
   padding-top: 54px;
-  color: 	#bd38b4;
+  color: 	#be4f46;
 }
 
 @media (min-width: 992px) {
@@ -12,11 +12,7 @@
 }
 
 h1,
-h2 {
-	font-family: inherit;
-}
-h3 {
-	font-family: inherit;
+
 }
 h2 {
 	font-family: inherit;
@@ -35,7 +31,7 @@ h3 {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: #bd38b4;
+  background-color: #be4f46;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -57,7 +53,7 @@ h3 {
   height: 25px;
   right: -12px;
   background-color: white;
-  border: 4px solid #bd38b4;
+  border: 4px solid #be4f46;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -84,7 +80,7 @@ h3 {
   .timeline::after {
     left: 31px;
   }
-  
+ } 
   /* Full-width containers */
   .timeline-block {
     width: 100%;
@@ -109,7 +105,7 @@ h6 {
   font-family: 'monospace', serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: 	#bd38b4;
+  color: 	#be4f46;
 }
 
 h1 {
@@ -129,11 +125,11 @@ h2 {
 }
 
 .list-social-icons a {
-  color:#bd38b4;
+  color:#be4f46;
 }
 
 .list-social-icons a:hover {
-  color: #bd38b4;
+  color: #be4f46;
 }
 
 .list-social-icons a .fa-lg {
@@ -145,7 +141,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #bd38b4;
+  color: #be4f46;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -220,18 +216,18 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #bd38b4 !important;
+  background-color: #be4f46 !important;
 }
 
 .text-primary {
-  color: #bd38b4 !important;
+  color: #be4f46 !important;
 }
 
 a {
-  color:#bd38b4;
+  color:#be4f46;
 }
 
-  color: #bd38b4;
+  color: #be4f46;
 }
 
 	
