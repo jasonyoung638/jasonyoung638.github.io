@@ -12,7 +12,11 @@
 }
 
 h1,
-
+h2 {
+	font-family: inherit;
+}
+h3 {
+	font-family: inherit;
 }
 h2 {
 	font-family: inherit;
@@ -80,7 +84,7 @@ h3 {
   .timeline::after {
     left: 31px;
   }
- } 
+  
   /* Full-width containers */
   .timeline-block {
     width: 100%;
