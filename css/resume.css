@@ -1,5 +1,5 @@
 ﻿body {
-  font-family: 'monospace', serif;
+  font-family: 'Microsoft JhengHei', serif;
   padding-top: 54px;
   color: 	#be4f46;
 }
@@ -124,7 +124,7 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'monospace', serif;
+  font-family: 'Microsoft JhengHei', serif;
   font-size: 1.35rem;
 }
 
